@@ -23,6 +23,8 @@ namespace Console1
 			
 			Console.WriteLine("Hello World6!");
 			Console.WriteLine("Hello World7!");
+			Console.WriteLine("Hello World8!");
+			Console.WriteLine("Hello World9!");
 			
 			// TODO: Implement Functionality Here
 			
