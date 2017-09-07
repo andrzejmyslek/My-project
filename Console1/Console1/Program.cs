@@ -15,6 +15,8 @@ namespace Console1
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World1!");
+			Console.WriteLine("Hello World2!");
 			
 			// TODO: Implement Functionality Here
 			
