@@ -14,9 +14,9 @@ namespace Console1
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!bbb");
-			Console.WriteLine("Hello World1!bbbb");
-			Console.WriteLine("Hello World2!bbbb");
+			Console.WriteLine("Hello Worldaaaa!");
+			Console.WriteLine("Hello World1aaaa!");
+			Console.WriteLine("Hello World2aaa!");
 			Console.WriteLine("Hello World3!");
 			Console.WriteLine("Hello World4!");
 			Console.WriteLine("Hello World77!");
