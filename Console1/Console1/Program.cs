@@ -21,6 +21,9 @@ namespace Console1
 			Console.WriteLine("Hello World4!");
 			Console.WriteLine("Hello World77!");
 			
+			Console.WriteLine("Hello World6!");
+			Console.WriteLine("Hello World7!");
+			
 			// TODO: Implement Functionality Here
 			
 			Console.Write("Press any key to continue . . . ");
