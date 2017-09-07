@@ -17,9 +17,9 @@ namespace Console1
 			Console.WriteLine("Hello Worldaaaa!");
 			Console.WriteLine("Hello World1aaaa!");
 			Console.WriteLine("Hello World2aaa!");
-			Console.WriteLine("Hello World3!");
-			Console.WriteLine("Hello World4!");
-			Console.WriteLine("Hello World77!");
+			Console.WriteLine("Hello World3aaa!");
+			Console.WriteLine("Hello World4aaa!");
+			Console.WriteLine("Hello World77aaa!");
 			
 			Console.WriteLine("Hello World6!");
 			Console.WriteLine("Hello World7!");
